@@ -1,9 +1,9 @@
 const cacheName = "RainHopeGames-JonahAndTheBigFish-0.9.0";
 const contentToCache = [
     "Build/TheFishGame.loader.js",
-    "Build/TheFishGame.framework.js.unityweb",
-    "Build/TheFishGame.data.unityweb",
-    "Build/TheFishGame.wasm.unityweb",
+    "Build/TheFishGame.framework.js",
+    "Build/TheFishGame.data",
+    "Build/TheFishGame.wasm",
     "TemplateData/style.css"
 
 ];
